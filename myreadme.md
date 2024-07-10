@@ -23,3 +23,6 @@ git config --global http.proxy http://192.168.200.26:51837
 # 取消git 代理
 git config --global --unset http.proxy
 git config --global --unset https.proxy
+
+# megatron - lm 训练
+> https://juejin.cn/post/7259682893648724029
